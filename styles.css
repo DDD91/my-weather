@@ -1,0 +1,30 @@
+body {
+    display: block;
+    margin: 0 auto;
+    padding: 30px;
+    font-family: "Comforter", cursive;
+    font-family: "Estonia", cursive;
+    font-family: "Montagu Slab", serif;
+    font-family: "Praise", cursive;
+    font-family: "Yanone Kaffeesatz", sans-serif;
+  }
+  h1 {
+    text-align: center;
+  }
+  .searchbar {
+    font-weight: bold;
+  }
+  .container {
+    text-align: center;
+  }
+  .card {
+    text-align: center;
+  }
+  .cardstyle {
+    background: #2a077c;
+    color: #2a077c;
+    position: fixed;
+    top: 0;
+    right: 0;
+  }
+  
